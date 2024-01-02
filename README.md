@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Juan Quintero! 👋
 
-<!--
-**ju4nqleyton/ju4nqleyton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate front-end developer from Colombia, dedicated to creating stunning web experiences. My focus lies in JavaScript development, particularly using ReactJS, and crafting responsive designs with Tailwind CSS.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Front-end Development: ReactJS
+- Languages: JavaScript
+- Styling: Tailwind CSS
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+Exploring new trends in the web development world and expanding my skills in interface design.
+
+## 💬 Let's Connect
+I'd love to collaborate on exciting projects and connect with fellow development enthusiasts! Feel free to reach out to me through my social media or email.
+
+## 📫 Contact
+- LinkedIn: [Juan Quintero](https://www.linkedin.com/in/ju4nqleyton)
+- Email: ju4nqleyton@gmail.com
+
+Thanks for stopping by my profile! 😊
