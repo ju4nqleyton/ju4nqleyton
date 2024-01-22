@@ -5,7 +5,7 @@ I'm a passionate front-end developer from Colombia, dedicated to creating stunni
 
 ## 🚀 Skills
 - Front-end Development: ReactJS
-- Languages: JavaScript
+- Languages: JavaScript, TypeScript
 - Styling: Tailwind CSS
 - Tools: Git, GitHub
 
@@ -17,6 +17,7 @@ I'd love to collaborate on exciting projects and connect with fellow development
 
 ## 📫 Contact
 - LinkedIn: [Juan Quintero](https://www.linkedin.com/in/ju4nqleyton)
+- Portfolio: [Juan Quintero](https://ju4nqleyton.github.io/portfolio/)
 - Email: ju4nqleyton@gmail.com
 
 Thanks for stopping by my profile! 😊
