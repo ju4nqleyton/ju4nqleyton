@@ -16,8 +16,6 @@ Exploring new trends in the web development world and expanding my skills in int
 I'd love to collaborate on exciting projects and connect with fellow development enthusiasts! Feel free to reach out to me through my social media or email.
 
 ## 📫 Contact
-- LinkedIn: [Juan Quintero](https://www.linkedin.com/in/ju4nqleyton)
-- Portfolio: [Juan Quintero](https://ju4nqleyton.github.io/portfolio/)
 - Email: ju4nqleyton@gmail.com
 
 Thanks for stopping by my profile! 😊
