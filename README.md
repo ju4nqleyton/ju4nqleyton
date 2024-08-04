@@ -9,9 +9,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, TypeScript, Node.js, and building frontend applications**
-- 🌱 I’m currently learning **how to create scalable applications with modern web technologies**
-- ☁️ I have a keen interest in frontend development and improving user experiences
+- 🔭 I’m currently working on **React, TypeScript, Node.js, and building full-stack applications**
+- 🌱 I’m currently learning **how to create scalable and efficient full-stack solutions with modern web technologies**
+- ☁️ I have a strong interest in both front-end and back-end development, aiming to enhance user experiences and build robust applications
 - 📚 I am constantly exploring new technologies and staying updated with the latest trends in web development
 - 📫 Feel free to reach me at **ju4nqleyton@gmail.com**
 <!--Intro end-->
@@ -21,7 +21,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Juan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ju4nqleyton&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ju4nqleyton&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
@@ -40,7 +40,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,tailwind,figma,git,github,linux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,mongodb,postgres,tailwind,git,github,linux&perline=14" />
   </a>
 </p>
 
